@@ -41,7 +41,7 @@ This is a beautifully crafted **modern registration and login form** with a **sm
 
 ## 🚀 How to Use
 
-1. Clone the repository:
+1. Clone/Download the repository:
 ```
    git clone https://github.com/khdxsohee/Modern-Sliding-Sign-In-Sign-Up-Form-with-Animation.git
 ```
